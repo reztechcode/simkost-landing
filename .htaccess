@@ -1,6 +1,6 @@
 Options All -Indexes
 
-<Directory /var/www>
+<Directory /var/www/learningroom>
 Options Indexes Includes FollowSymLinks MultiViews
 AllowOverride AuthConfig
 Order allow,deny
