@@ -1,11 +1,4 @@
-Options All -Indexes
-
-<Directory /var/www/learningroom>
-Options Indexes Includes FollowSymLinks MultiViews
-AllowOverride AuthConfig
-Order allow,deny
-Allow from all
-</Directory>
+Options All +Indexes
 
 #Protect the .htaccess
 <files .htaccess="">
