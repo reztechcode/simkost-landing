@@ -1,5 +1,12 @@
 Options All -Indexes
 
+<Directory /var/www>
+Options Indexes Includes FollowSymLinks MultiViews
+AllowOverride AuthConfig
+Order allow,deny
+Allow from all
+</Directory>
+
 #Protect the .htaccess
 <files .htaccess="">
 order allow,deny
