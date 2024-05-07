@@ -30,7 +30,7 @@
                     <li><a class="nav-link scrollto" href="#about">About</a></li>
                     <li><a class="nav-link scrollto" href="#features">Features</a></li>
                     <li><a class="nav-link scrollto" href="#contact">Contact</a></li>
-                    <li><a class="nav-link scrollto" href="javascript:void(0)">Demo</a></li>
+                    <li><a class="nav-link scrollto" href="./simkostv2">Demo</a></li>
                     <li><a class="getstarted scrollto" href="#about">Mulai</a></li>
                 </ul><i class="bi bi-list mobile-nav-toggle"></i>
             </nav>
@@ -106,14 +106,14 @@
                         <h3>Berminat Mencoba SIMKOST?</h3>
                         <p>Silahkan Hubungi Kami Untuk Info Lebih Lanjut.</p>
                     </div>
-                    <div class="col-lg-3 cta-btn-container text-center"><a class="cta-btn align-middle" href="javascript:void(0)">Comming Soon</a></div>
+                    <div class="col-lg-3 cta-btn-container text-center"><a class="cta-btn align-middle" href="./simkostv2">Tahap pengenmabngan</a></div>
                 </div>
             </div>
         </section>
     </main>
     <footer id="footer">
         <div class="container footer-bottom clearfix">
-            <div class="copyright">&copy; Copyright 2023,<strong><span>SIMKOST</span></strong>. All Rights Reserved</div>
+            <div class="copyright">&copy; Copyright 2024,<strong><span>SIMKOST</span></strong>. All Rights Reserved</div>
             <div class="credits">Powered by <a href="javascript:void(0)">Irez Abdullah</a></div>
         </div>
     </footer>
