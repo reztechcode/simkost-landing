@@ -106,7 +106,7 @@
                         <h3>Berminat Mencoba SIMKOST?</h3>
                         <p>Silahkan Hubungi Kami Untuk Info Lebih Lanjut.</p>
                     </div>
-                    <div class="col-lg-3 cta-btn-container text-center"><a class="cta-btn align-middle" href="./simkostv2">Tahap pengenmabngan</a></div>
+                    <div class="col-lg-3 cta-btn-container text-center"><a class="cta-btn align-middle" href="./simkostv2">Tahap pengembangan</a></div>
                 </div>
             </div>
         </section>
