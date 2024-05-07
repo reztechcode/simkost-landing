@@ -93,7 +93,7 @@
                         <div class="icon-box">
                             <div class="icon"><i class="bi bi-credit-card-fill"></i></div>
                             <h4><a href="">Payment Gateway</a></h4>
-                            <p><span class="fw-semibold">SIMKOST</span> telah Terintegrasi menggunakan payment gateway dari Midtrans, Untuk mempermudah pengguna dalam melakukan pembayaran sewa pertama kali dan biaya sewa bulanan.</p>
+                            <p><span class="fw-semibold">SIMKOST</span> telah Terintegrasi menggunakan payment gateway dari Midtrans, Untuk mempermudah pengguna dalam melakukan pembayaran biaya sewa bulanan.</p>
                         </div>
                     </div>
                 </div>
